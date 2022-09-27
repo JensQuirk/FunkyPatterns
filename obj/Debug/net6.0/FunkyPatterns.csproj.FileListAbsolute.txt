@@ -1,0 +1,15 @@
+/home/yonx/CSharp/FunkyPatterns/bin/Debug/net6.0/FunkyPatterns
+/home/yonx/CSharp/FunkyPatterns/bin/Debug/net6.0/FunkyPatterns.deps.json
+/home/yonx/CSharp/FunkyPatterns/bin/Debug/net6.0/FunkyPatterns.runtimeconfig.json
+/home/yonx/CSharp/FunkyPatterns/bin/Debug/net6.0/FunkyPatterns.dll
+/home/yonx/CSharp/FunkyPatterns/bin/Debug/net6.0/FunkyPatterns.pdb
+/home/yonx/CSharp/FunkyPatterns/obj/Debug/net6.0/FunkyPatterns.csproj.AssemblyReference.cache
+/home/yonx/CSharp/FunkyPatterns/obj/Debug/net6.0/FunkyPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/yonx/CSharp/FunkyPatterns/obj/Debug/net6.0/FunkyPatterns.AssemblyInfoInputs.cache
+/home/yonx/CSharp/FunkyPatterns/obj/Debug/net6.0/FunkyPatterns.AssemblyInfo.cs
+/home/yonx/CSharp/FunkyPatterns/obj/Debug/net6.0/FunkyPatterns.csproj.CoreCompileInputs.cache
+/home/yonx/CSharp/FunkyPatterns/obj/Debug/net6.0/FunkyPatterns.dll
+/home/yonx/CSharp/FunkyPatterns/obj/Debug/net6.0/refint/FunkyPatterns.dll
+/home/yonx/CSharp/FunkyPatterns/obj/Debug/net6.0/FunkyPatterns.pdb
+/home/yonx/CSharp/FunkyPatterns/obj/Debug/net6.0/FunkyPatterns.genruntimeconfig.cache
+/home/yonx/CSharp/FunkyPatterns/obj/Debug/net6.0/ref/FunkyPatterns.dll

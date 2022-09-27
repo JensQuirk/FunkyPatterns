@@ -1,0 +1,21 @@
+┌──────────────────────────────────────┐
+│ *Do not utilize this program if you  │
+│  suffer from epeleptic attacks*      │
+│--------------------------------------│
+│ This program works best if you       │
+│ maximize you console window and dont │
+│ let the board dimentions exceed the  │
+│ dimentions of your console window.   │
+│--------------------------------------│
+│                                      │
+│ a - Change the colorscheme           │
+│                                      │
+│ s - Set X-dimention (current: 31)    │
+│                                      │
+│ d - Set Y-dimention (current: 21)    │
+│                                      │
+│ space - Start simulation             │
+│                                      │
+│ q - Exit                             │
+│                                      │
+└──────────────────────────────────────┘
